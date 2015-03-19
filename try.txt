@@ -2,4 +2,9 @@ Hallo world how are you?lol
 
 Nu op mijn nieuwe branch
 
+<<<<<<< HEAD
 //Hier onder tekst --Master
+=======
+
+Hier is de tekst --Newb
+>>>>>>> newb
