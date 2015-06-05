@@ -1,0 +1,9 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\bin\Debug\SmartLamp.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\obj\Debug\SmartLamp.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\obj\Debug\SmartLamp.Properties.Resources.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\obj\Debug\SmartLamp.csproj.GenerateResource.Cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\bin\Debug\SmartLamp.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\bin\Debug\SmartLamp.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\obj\Debug\SmartLamp.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\obj\Debug\SmartLamp.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\SmartLamp\SmartLamp\obj\Debug\SmartLamp.Form1.resources

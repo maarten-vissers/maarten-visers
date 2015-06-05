@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>jqspaceadventures</title>
+    <script src="Scripts/jquery-2.1.3.min.js"></script>
+    <style>
+        body {
+            background-color: #333333;
+        }
+
+        .badAlienShip {
+            position: fixed;
+            width: 40px;
+            height: 40px;
+            background-color: blue;
+            border: 2px solid white;
+        }
+    </style>
+    <script>
+        var numShips = 0;
+        var shipAdder = null;
+		var oversteekTijd = 8000;
+		var easings = ['linear','swing', 'easeInOutSine', 'easeInOutQuad', 'easeInOutQuint', 'easeInOutCirc'];
+        function init() {
+            console.log("init");
+
+            shipAdder = setInterval(shipAdderLoop, 200);
+        }
+        function stop() {
+            clearInterval(shipAdder);
+        }
+        function addBadAlienShip() {
+            $('#space').append("<div id='badAlienShip" + numShips + "' class='badAlienShip'></div>");
+            
+            var newShip = $('#badAlienShip' + numShips);
+
+            var leftPos = $(window).width();
+            var topPos = Math.round(Math.random() * $(window).height());
+
+            console.log('topPos: ' + topPos);
+
+            $(newShip).css({ "left": leftPos, "top": topPos });
+            $(newShip).on('click', function () {
+                console.log('badAlienShip' + numShips + ' attacked...');
+                $(this).fadeOut();
+            });
+            var easingIndex = Math.floor(Math.random()*easings.length);
+            $(newShip).animate({ 'left': -$(newShip).outerWidth()}, oversteekTijd, easings[easingIndex]);
+              numShips++;
+            }
+        function shipAdderLoop() {
+            if (Math.random() < 0.2) {
+                console.log('adding bad alien ship');
+                addBadAlienShip();
+            }
+        }
+</script>
+</head>
+<body>
+    <div id='space'></div>
+    <script>
+        init();
+    </script>
+</body>
+</html>

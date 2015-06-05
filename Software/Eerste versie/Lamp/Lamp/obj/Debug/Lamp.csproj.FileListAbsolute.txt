@@ -1,0 +1,9 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\bin\Debug\Lamp.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\obj\Debug\Lamp.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\obj\Debug\Lamp.Form1.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\obj\Debug\Lamp.Properties.Resources.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\obj\Debug\Lamp.csproj.GenerateResource.Cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\bin\Debug\Lamp.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\bin\Debug\Lamp.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\obj\Debug\Lamp.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Lamp\Lamp\obj\Debug\Lamp.pdb

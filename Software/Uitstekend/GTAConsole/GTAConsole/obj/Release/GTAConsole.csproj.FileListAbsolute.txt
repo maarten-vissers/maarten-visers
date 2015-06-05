@@ -1,0 +1,9 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\bin\Release\GTAConsole.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\obj\Release\GTAConsole.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\bin\Release\GTAConsole.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\bin\Release\GTAConsole.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\obj\Release\GTAConsole.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\obj\Release\GTAConsole.pdb
+D:\5IB\Maarten Vissers\Software\Uitstekend\GTAConsole\GTAConsole\bin\Release\GTAConsole.exe.config
+D:\5IB\Maarten Vissers\Software\Uitstekend\GTAConsole\GTAConsole\obj\Release\GTAConsole.exe
+D:\5IB\Maarten Vissers\Software\Uitstekend\GTAConsole\GTAConsole\obj\Release\GTAConsole.pdb

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test</title>
+    <script>
+        //var hallo = function () {
+        //    console.log("hallo");
+        //};
+
+        //var interval = setInterval(hallo, 1000);
+
+        //setTimeout(function () { clearInterval(interval) },5000);
+
+        //var klok = function () {
+        //    var tik = function () {
+        //        console.log("tik");
+        //    };
+        //    var tak = function () {
+        //        console.log("tak");
+        //    };
+        //    function stop() {
+        //        clearInterval(tikTimer);
+        //        clearInterval(takTimer);
+        //    };
+        //    tikTimer = setInterval(tik, 2000);
+        //    setTimeout(function () {
+        //        takTimer = setInterval(tak, 2000);
+
+        //    })
+        //};
+
+        ////Juiste Versie van hierboven
+        ////---------------------------
+        //function klok() {
+        //    function tak() {
+        //        console.log('tak');
+        //    }
+        //    function tik() {
+        //        console.log('tik');
+        //    }
+        //    function stop() {
+        //        clearInterval(tikTimer);
+        //        clearInterval(takTimer);
+        //    }
+        //    tikTimer = setInterval(tik, 2000);
+        //    setTimeout(function () {
+        //        takTimer = setInterval(tak, 2000);
+        //    }, 1000);
+
+        //    setTimeout(stop, 10000);
+        //}
+
+        function meetTijd(functie) {
+            var startTijd = new Date().getTime();
+            functie();
+            var eindTijd = new Date().getTime();
+            return eindTijd - startTijd;
+        }
+        var x = 0;
+
+        function berekenSom() {
+            for (var i = 0; i <= 1000000000; i++) {
+
+                 x += i;
+                
+            }
+            console.log("klaar getal is: " + x);
+        }
+
+        
+        
+    </script>
+</head>
+<body style="background-color:red";>
+</body>
+</html>

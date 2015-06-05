@@ -1,0 +1,9 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\bin\Debug\Opgave11.4.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\bin\Debug\Opgave11.4.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\bin\Debug\Opgave11.4.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\obj\Debug\Opgave11.4.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\obj\Debug\Opgave11._4.Form1.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\obj\Debug\Opgave11._4.Properties.Resources.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\obj\Debug\Opgave11.4.csproj.GenerateResource.Cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\obj\Debug\Opgave11.4.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Opgave11.4\Opgave11.4\obj\Debug\Opgave11.4.pdb

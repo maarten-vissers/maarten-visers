@@ -1,0 +1,5 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\bin\Release\Don't touch.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\bin\Release\Don't touch.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\bin\Release\Don't touch.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\obj\Release\Don't touch.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\obj\Release\Don't touch.pdb

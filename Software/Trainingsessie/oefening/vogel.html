@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+
+<html lang="nl">
+    <head>
+        <meta charset="utf-8">
+        <title>Vogel</title>
+        <style type="text/css">
+            /*De boom verplaatsen */
+			#boom {
+                position:fixed;
+                left: 35%;
+			}
+            /*Vogel2 maken*/
+			 #vogel2{
+                position: fixed;
+                left: 70%;
+                top: 0%;
+                z-index:-1;
+                -webkit-animation: vlieg 5s ease-in-out;
+                -webkit-animation-fill-mode: forwards;
+            }
+
+            #lichaam2{
+                position:absolute;
+                left: 30px;
+            }
+
+            #linkervleugel2{
+                position: absolute;
+                left: 10px;
+                top: 10px;
+                z-index: -1;
+                -webkit-animation: flapperL 0.1s alternate 50, rust 1s linear 5s;
+                -webkit-animation-fill-mode:forwards;
+            }
+
+            #rechtervleugel2{
+                position: absolute;
+                left: 80px;
+                top: 10px;
+                z-index: -1;
+                -webkit-animation: flapperR 0.1s alternate 50, rust 1s linear 5s;
+                -webkit-animation-fill-mode:forwards;
+                
+            }
+
+            /*vogel maken*/ 
+            #vogel{
+                position: fixed;
+                left: 0%;
+                top: 0%;
+                z-index:-1;
+                -webkit-animation: vlieg 5s ease-in-out;
+                -webkit-animation-fill-mode: forwards;
+            }
+
+            #lichaam{
+                position:absolute;
+                left: 30px;
+            }
+
+            #linkervleugel{
+                position: absolute;
+                left: 10px;
+                top: 10px;
+                z-index: -1;
+                -webkit-animation: flapperL 0.1s alternate 50, rust 1s linear 5s;
+                -webkit-animation-fill-mode:forwards;
+            }
+
+            #rechtervleugel{
+                position: absolute;
+                left: 80px;
+                top: 10px;
+                z-index: -1;
+                -webkit-animation: flapperR 0.1s alternate 50, rust 1s linear 5s;
+                -webkit-animation-fill-mode:forwards;
+                
+            }
+
+            /*animaties*/ 
+            @-webkit-keyframes vlieg{
+                50% {top: 50px; left: 70%;}
+                100% {top:215px;left:35%;z-index:1;}
+            }   
+            @-webkit-keyframes vlieg2{
+                50% {top: 50px; left: 35%;}
+                100% {top:215px;left:70%;z-index:1;}
+            }     
+            
+            @-webkit-keyframes flapperR{
+                100% {-webkit-transform: rotate(50deg); top:25px;}
+            }   
+
+            @-webkit-keyframes flapperL{
+                100%{-webkit-transform: rotate(-50deg); top: 25px;}
+            }
+            @-webkit-keyframes rust
+            {
+                100% {opacity:0;}
+            }
+
+            
+        </style>
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="boom">
+                <img src="afbeeldingen/boom.png" alt="boom" />
+            </div>
+            <div id="vogel">
+                <div id="lichaam">
+                    <img src="afbeeldingen/lichaam.png" alt="vogel" />   
+                </div>     
+                <div id="linkervleugel" class="links">
+                    <img src="afbeeldingen/linkervleugel.png" alt="linker vleugel" />   
+                </div>      
+                <div id="rechtervleugel">
+                    <img src="afbeeldingen/rechtervleugel.png" alt="rechter vleugel" />   
+                </div>     
+                
+                <div id="vogel2">
+                    <div id="lichaam2">
+                        <img src="afbeeldingen/lichaam.png" alt="vogel" />
+                    </div>
+                    <div id="linkervleugel2" class="links">
+                        <img src="afbeeldingen/linkervleugel.png" alt="linker vleugel" />
+                    </div>
+                    <div id="rechtervleugel2">
+                        <img src="afbeeldingen/rechtervleugel.png" alt="rechter vleugel" />
+                    </div>
+                </div>
+        </div>
+		<a href="https://docs.google.com/forms/d/12_-LmIvNRudSasE234283SGCm0qOH4EyOffaf8J5F_Y/viewform?edit_requested=true#start=invite">Formuliers</a>
+    </body>
+</html>

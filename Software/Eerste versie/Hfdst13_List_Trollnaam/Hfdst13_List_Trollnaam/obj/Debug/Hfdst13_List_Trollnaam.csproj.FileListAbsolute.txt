@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List_Trollnaam\Hfdst13_List_Trollnaam\bin\Debug\Hfdst13_List_Trollnaam.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List_Trollnaam\Hfdst13_List_Trollnaam\obj\Debug\Hfdst13_List_Trollnaam.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List_Trollnaam\Hfdst13_List_Trollnaam\bin\Debug\Hfdst13_List_Trollnaam.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List_Trollnaam\Hfdst13_List_Trollnaam\bin\Debug\Hfdst13_List_Trollnaam.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List_Trollnaam\Hfdst13_List_Trollnaam\obj\Debug\Hfdst13_List_Trollnaam.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List_Trollnaam\Hfdst13_List_Trollnaam\obj\Debug\Hfdst13_List_Trollnaam.pdb

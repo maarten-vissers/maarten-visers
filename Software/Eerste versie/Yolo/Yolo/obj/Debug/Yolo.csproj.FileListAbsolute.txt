@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Yolo\Yolo\bin\Debug\Yolo.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Yolo\Yolo\bin\Debug\Yolo.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Yolo\Yolo\bin\Debug\Yolo.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Yolo\Yolo\obj\Debug\Yolo.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Yolo\Yolo\obj\Debug\Yolo.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Yolo\Yolo\obj\Debug\Yolo.pdb

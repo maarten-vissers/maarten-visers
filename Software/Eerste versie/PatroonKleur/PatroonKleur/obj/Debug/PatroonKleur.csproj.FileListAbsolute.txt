@@ -1,0 +1,9 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\bin\Debug\PatroonKleur.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\bin\Debug\PatroonKleur.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\bin\Debug\PatroonKleur.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\obj\Debug\PatroonKleur.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\obj\Debug\PatroonKleur.Form1.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\obj\Debug\PatroonKleur.Properties.Resources.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\obj\Debug\PatroonKleur.csproj.GenerateResource.Cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\obj\Debug\PatroonKleur.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\PatroonKleur\PatroonKleur\obj\Debug\PatroonKleur.pdb

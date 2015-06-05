@@ -1,0 +1,9 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Shapes\Shapes\obj\Debug\Shapes.pdb

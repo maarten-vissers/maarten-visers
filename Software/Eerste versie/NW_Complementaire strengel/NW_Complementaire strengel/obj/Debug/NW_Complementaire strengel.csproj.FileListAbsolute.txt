@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\NW_Complementaire strengel\NW_Complementaire strengel\bin\Debug\NW_Complementaire strengel.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\NW_Complementaire strengel\NW_Complementaire strengel\bin\Debug\NW_Complementaire strengel.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\NW_Complementaire strengel\NW_Complementaire strengel\bin\Debug\NW_Complementaire strengel.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\NW_Complementaire strengel\NW_Complementaire strengel\obj\Debug\NW_Complementaire strengel.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\NW_Complementaire strengel\NW_Complementaire strengel\obj\Debug\NW_Complementaire strengel.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\NW_Complementaire strengel\NW_Complementaire strengel\obj\Debug\NW_Complementaire strengel.pdb

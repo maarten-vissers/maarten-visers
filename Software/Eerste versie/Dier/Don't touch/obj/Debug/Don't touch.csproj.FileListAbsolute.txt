@@ -1,0 +1,7 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Don't touch\Don't touch\bin\Debug\Don't touch.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\bin\Debug\Don't touch.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\bin\Debug\Don't touch.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\bin\Debug\Don't touch.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\obj\Debug\Don't touch.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\obj\Debug\Don't touch.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Don't touch\obj\Debug\Don't touch.pdb

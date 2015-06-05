@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\ClassUittesten\ClassUittesten\bin\Debug\ClassUittesten.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\ClassUittesten\ClassUittesten\bin\Debug\ClassUittesten.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\ClassUittesten\ClassUittesten\bin\Debug\ClassUittesten.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\ClassUittesten\ClassUittesten\obj\Debug\ClassUittesten.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\ClassUittesten\ClassUittesten\obj\Debug\ClassUittesten.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\ClassUittesten\ClassUittesten\obj\Debug\ClassUittesten.pdb

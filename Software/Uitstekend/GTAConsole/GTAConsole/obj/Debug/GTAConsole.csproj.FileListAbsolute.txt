@@ -1,0 +1,2 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\bin\Debug\GTAConsole.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\GTAConsole\GTAConsole\obj\Debug\GTAConsole.csprojResolveAssemblyReference.cache

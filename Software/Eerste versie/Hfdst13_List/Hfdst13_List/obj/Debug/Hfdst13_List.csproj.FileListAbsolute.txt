@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List\Hfdst13_List\bin\Debug\Hfdst13_List.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List\Hfdst13_List\obj\Debug\Hfdst13_List.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List\Hfdst13_List\bin\Debug\Hfdst13_List.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List\Hfdst13_List\bin\Debug\Hfdst13_List.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List\Hfdst13_List\obj\Debug\Hfdst13_List.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Hfdst13_List\Hfdst13_List\obj\Debug\Hfdst13_List.pdb

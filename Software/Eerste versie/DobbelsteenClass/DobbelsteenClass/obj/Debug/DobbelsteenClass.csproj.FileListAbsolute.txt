@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\DobbelsteenClass\DobbelsteenClass\bin\Debug\DobbelsteenClass.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\DobbelsteenClass\DobbelsteenClass\obj\Debug\DobbelsteenClass.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\DobbelsteenClass\DobbelsteenClass\bin\Debug\DobbelsteenClass.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\DobbelsteenClass\DobbelsteenClass\bin\Debug\DobbelsteenClass.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\DobbelsteenClass\DobbelsteenClass\obj\Debug\DobbelsteenClass.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\DobbelsteenClass\DobbelsteenClass\obj\Debug\DobbelsteenClass.pdb

@@ -1,0 +1,6 @@
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Dier\bin\Debug\Dier.exe.config
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Dier\bin\Debug\Dier.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Dier\bin\Debug\Dier.pdb
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Dier\obj\Debug\Dier.csprojResolveAssemblyReference.cache
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Dier\obj\Debug\Dier.exe
+D:\5IB\Maarten Vissers\Software\Eerste versie\Dier\Dier\obj\Debug\Dier.pdb
